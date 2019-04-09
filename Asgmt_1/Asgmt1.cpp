@@ -16,10 +16,6 @@ int main()
 {
     int x; 
 
-    /*This for loop has extra space between the numbers for single digit 
-      numbers. So the single digit spacing align properly with the double 
-      digits numbers. 
-    */
     for(x = 1; x < 100; x = x+5)
     {
         cout << x << "  " << x + 1 << "  " << x + 2 << "  " << x + 3 
