@@ -20,13 +20,7 @@ int main()
       numbers. So the single digit spacing align properly with the double 
       digits numbers. 
     */
-    for(x = 1; x < 10; x = x+5)
-    {
-        cout << x << "   " << x + 1 << "   " << x + 2 << "   " << x + 3 
-             << "   " << x + 4 << endl; 
-    }
-
-    for(x = 11; x < 100; x = x+5)
+    for(x = 1; x < 100; x = x+5)
     {
         cout << x << "  " << x + 1 << "  " << x + 2 << "  " << x + 3 
              << "  " << x + 4 << endl; 
