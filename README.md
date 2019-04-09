@@ -1,1 +1,1 @@
-# cisc-1110
+# CISC 1110 - Introduction to Programming Using C++
