@@ -11,7 +11,7 @@ int main ()
     //Declearing the outfile. 
     ofstream outfile; 
     // Now naming an output file and opening it after having declared it above. 
-    outfile.open("AsgmtOutput.txt"); 
+    outfile.open("Asgmt2_Output.txt"); 
 
     //Uncomment below for outputting the program on screen for bebugging purposes. 
     //outfile.open("/dev/stdout"); 
