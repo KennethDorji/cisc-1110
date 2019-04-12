@@ -1,0 +1,34 @@
+
+
+Program has just begun and below we have Assignment 2 output
+
+
+			Table of Contents
+
+	 X		 Y			  Statement
+
+       -3.00           -5.68			Y is NEGATIVE
+       -2.50           -7.46			Y is NEGATIVE
+       -2.00          -10.95			Y is NEGATIVE
+       -1.50          -25.69			Y is NEGATIVE
+       -1.00           -3.33			Y is NEGATIVE
+       -0.50            0.98			Y is POSITIVE
+        0.00            2.00			Y is POSITIVE
+        0.50            0.70			Y is POSITIVE
+        1.00           -1.67			Y is NEGATIVE
+        1.50           -8.56			Y is NEGATIVE
+        2.00           -2.19			Y is NEGATIVE
+        2.50           -0.68			Y is NEGATIVE
+        3.00            0.00			Y is ZERO
+        3.50            0.35			Y is POSITIVE
+        4.00            0.54			Y is POSITIVE
+
+
+1) The Y value closest to 10 is 2.00 and the X value closest to Y value is 0.00
+
+2) The formula yields 9 negative 1 zero and 5 positive values for y.
+
+The table has completed. 
+
+Program exit.
+
