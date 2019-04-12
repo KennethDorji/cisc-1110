@@ -71,7 +71,7 @@ int main ()
         outfile << endl << "2) The formula yields " << negNum << " negative " 
                 << nulNum << " zero and " << posNum << " positive values for y."
                 << endl; 
-        outfile << "\n\nThe table has finished. The program has now shutdown." << 
+        outfile << "\n\nThe table has completed. \n\nProgram exit." << 
                 endl << endl; 
         
         /* Closing the output file after opening it for security reasons, especially 
