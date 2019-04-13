@@ -1,0 +1,75 @@
+ Kenneth Dorji
+ CISC 1110 - JAN1(20759)
+ Prof. C. Ziegler
+ Chapter 5 - Bowling Scores(Assignment 4)
+
+
+Score 100: Good Game.
+Score 200: Excellent Game.
+Score 300: Professional Game.
+The average score is 200. Score 200: Excellent Game.
+
+301 is an invalid score. Therefore the group is invalid.
+
+Score 0: Horrible Game.
+Score 80: Poor Game.
+Score 120: Good Game.
+The average score is 66. Score 66: Poor Game.
+
+Score 150: Very Good Game.
+Score 250: Professional Game.
+Score 200: Excellent Game.
+The average score is 200. Score 200: Excellent Game.
+
+320 is an invalid score. Therefore the group is invalid.
+1020 is an invalid score. Therefore the group is invalid.
+
+Score 249: Excellent Game.
+Score 199: Very Good Game.
+Score 99: Poor Game.
+The average score is 182. Score 182: Very Good Game.
+
+Score 285: Professional Game.
+Score 292: Professional Game.
+Score 298: Professional Game.
+The average score is 291. Score 291: Professional Game.
+
+Score 40: Horrible Game.
+Score 55: Poor Game.
+Score 0: Horrible Game.
+The average score is 31. Score 31: Horrible Game.
+
+421 is an invalid score. Therefore the group is invalid.
+
+Score 0: Horrible Game.
+Score 12: Horrible Game.
+Score 8: Horrible Game.
+The average score is 6. Score 6: Horrible Game.
+
+Score 250: Professional Game.
+Score 280: Professional Game.
+Score 300: Professional Game.
+The average score is 276. Score 276: Professional Game.
+
+310 is an invalid score. Therefore the group is invalid.
+301 is an invalid score. Therefore the group is invalid.
+10000 is an invalid score. Therefore the group is invalid.
+
+Score 300: Professional Game.
+Score 250: Professional Game.
+Score 8: Horrible Game.
+The average score is 186. Score 186: Very Good Game.
+
+Score 95: Poor Game.
+Score 0: Horrible Game.
+Score 120: Good Game.
+The average score is 71. Score 71: Poor Game.
+
+301 is an invalid score. Therefore the group is invalid.
+
+The total no of Groups processed is 15
+The no of valid groups processed is 0
+The no of invalid groups processed is 15
+
+
+Program Ended...
