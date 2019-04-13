@@ -2,7 +2,7 @@
  * Kenneth Dorji
  * CISC 1110 - JAN1(20759)
  * Prof. C. Ziegler
- * Chapter 6 - Calculator
+ * Chapter 7 - Count Zeros
  */
 
 #include <iostream> 
