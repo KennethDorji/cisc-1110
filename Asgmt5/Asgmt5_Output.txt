@@ -1,0 +1,176 @@
+ Kenneth Dorji
+ CISC 1110 - JAN1(20759)
+ Prof. C. Ziegler
+ Chapter 6 - Calculator(Assignment 5)
+
+Operation: Addition
+Integer 1: 9
+Integer 2: 56
+Sum: 65
+
+Operation: Addition
+Integer 1: 137
+Integer 2: -3582
+Sum: -3445
+
+Operation: Addition
+Integer 1: -72
+Integer 2: -104
+Sum: -176
+
+Operation: Addition
+Integer 1: 36
+Integer 2: -5
+Sum: 31
+
+Operation: Subtraction
+Integer 1: -5
+Integer 2: -9
+Difference: 4
+
+Operation: Subtraction
+Integer 1: -23
+Integer 2: 104
+Difference: -127
+
+Operation: Subtraction
+Integer 1: 52
+Integer 2: 1302
+Difference: -1250
+
+Operation: Subtraction
+Integer 1: -1942
+Integer 2: 1042
+Difference: -2984
+
+Operation: Multiplication
+Integer 1: 4
+Integer 2: 2
+Product: 8
+
+Operation: Multiplication
+Integer 1: -12
+Integer 2: -42
+Product: 504
+
+Operation: Multiplication
+Integer 1: -8
+Integer 2: 5
+Product: -40
+
+Operation: Multiplication
+Integer 1: 240
+Integer 2: -5
+Product: -1200
+
+Operation: Division
+Integer 1: 2
+Integer 2: 10
+Quotient: 8
+
+Operation: Division
+Integer 1: -43
+Integer 2: 3
+Quotient: 46
+
+Operation: Subtraction
+Integer 1: 2
+Integer 2: 142
+Difference: -140
+
+Operation: Division
+Integer 1: -1250
+Integer 2: -5
+Quotient: 1245
+
+Operation: Modulus
+Integer 1: 33
+Integer 2: 2
+Remainder: 2
+
+Operation: Modulus
+Integer 1: -103
+Integer 2: 12
+Remainder: 12
+
+Operation: Modulus
+Integer 1: -47
+Integer 2: -4
+Remainder: 4
+
+Operation: Modulus
+Integer 1: 1001
+Integer 2: -2
+Remainder: 2
+
+Operation: Average
+Integer 1: 33
+Integer 2: -5
+Average: 14
+
+Operation: Average
+Integer 1: 99
+Integer 2: 100
+Average: 99
+
+Operation: Average
+Integer 1: -50
+Integer 2: 100
+Average: 25
+
+Operation: Average
+Integer 1: -25
+Integer 2: -62
+Average: -43
+
+Operation: Maximum
+Integer 1: 92
+Integer 2: -82
+Maximum: 92
+
+Operation: Maximum
+Integer 1: -23
+Integer 2: -23
+Maximum: None. Since both integers have the same value.
+
+Operation: Maximum
+Integer 1: -104
+Integer 2: 1042
+Maximum: 1042
+
+Operation: Maximum
+Integer 1: 13
+Integer 2: 13
+Maximum: None. Since both integers have the same value.
+
+Operation: Minimum
+Integer 1: 12
+Integer 2: -20
+Minimum: -20
+
+Operation: Minimum
+Integer 1: -42
+Integer 2: 42
+Minimum: -42
+
+Operation: Minimum
+Integer 1: 102
+Integer 2: 102
+Minimum: None. Since both integers have the same value.
+
+Operation: Minimum
+Integer 1: -4
+Integer 2: -4
+Minimum: None. Since both integers have the same value.
+
+Operation: Average
+Integer: 2
+Square: 4
+
+Operation: Average
+Integer: -8
+Square: 64
+
+
+User entered 'Q' to quit the program. 
+Exit...
