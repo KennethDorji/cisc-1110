@@ -1,0 +1,103 @@
+ Kenneth Dorji
+ CISC 1110 - JAN1(20759)
+ Prof. C. Ziegler
+ Chapter 7 - Bank Accounts(Assignment 7)
+
+
+W - Withdrawal 
+D - Deposit 
+N - New Account 
+B - Balance 
+Q - Quit 
+X - Delete Account 
+ 
+
+Transaction Requested: Deposit
+Account number: 1234
+Old Balance 500.69
+Amount to Deposit: 500.00
+New Balance: $1000.69
+
+Transaction Requested: Withdrawal
+Error! Account number 50 does not exist
+
+Transaction Requested: Withdrawal
+Account number: 50
+Error 0.00 is an invalid amount
+
+Transaction Requested: Balance Inquiry
+Account Number: 1234
+Current Balance 1000.69
+
+Transaction Requested: Deposit
+Error! Account number 12345 does not exist
+
+Transaction Requested: Deposit
+Account number: 1235
+Old Balance 650.56
+Amount to Deposit: 100000.00
+New Balance: $100650.56
+
+Transaction Requested: Balance Inquiry
+Error! Account number 12345 does not exist
+
+Transaction Requested: Balance Inquiry
+Account Number: 1235
+Current Balance 100650.56
+
+Transaction Requested: Withdrawal
+Error! Account number 12345566 does not exist
+
+Transaction Requested: Withdrawal
+Account number: 12345566
+Error 0.00 is an invalid amount
+
+Transaction Requested: Withdrawal
+Account number: 1235
+Old Balance 100650.56
+New Balance: $99650.56
+Balance 0.00
+
+
+Transaction Requested: Deposit
+Account number: 1239
+Old Balance 0.00
+Amount to Deposit: 20.00
+New Balance: $20.00
+
+Transaction Requested: Balance Inquiry
+Account Number: 1239
+Current Balance 20.00
+Balance 0.00
+
+Please enter the Account you wish to delete: 1235
+Your account exists
+Account Information. 
+Balance in account 1235 is $99650.56
+Your account has been deleted
+
+
+Details of Bank Account
+
+Account	Balance
+
+1234	$1000.69
+1235	$99650.56
+1236	$345.89
+1237	$968.76
+1238	$750.62
+1239	$20.00
+
+This account already exists 
+
+
+Details of Bank Account
+
+Account	Balance
+
+1234	$1000.69
+1235	$99650.56
+1236	$345.89
+1237	$968.76
+1238	$750.62
+1239	$20.00
